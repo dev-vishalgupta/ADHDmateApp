@@ -15,7 +15,7 @@
 [![Room Database](https://img.shields.io/badge/Local%20DB-Room%202.7-F80000?style=for-the-badge&logo=sqlite&logoColor=white)](https://developer.android.com/training/data-storage/room)
 [![Gemini AI](https://img.shields.io/badge/AI-Gemini%203.1%20Flash--Lite-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev)
 [![Source Status](https://img.shields.io/badge/Source-Closed%20Source-critical?style=for-the-badge&logo=lock&logoColor=white)](#-project--repository-notice)
-[![Releases](https://img.shields.io/badge/Download-Latest%20APK-orange?style=for-the-badge&logo=android&logoColor=white)](https://github.com/dev-vishalgupta/ADHDmate/releases)
+[![Releases](https://img.shields.io/badge/Download-Latest%20APK-orange?style=for-the-badge&logo=android&logoColor=white)](https://github.com/dev-vishalgupta/ADHDmateApp/releases/tag/v1.0.0)
 [![100% Free Forever](https://img.shields.io/badge/Price-100%25%20Free%20Forever-success?style=for-the-badge)]()
 
 <br/>
@@ -40,7 +40,7 @@
 >
 > This repository serves as the **official documentation showcase, technical overview, and distribution hub** for the application:
 > - 📖 **Architecture & Design Showcase:** Explaining the technology stack, UX patterns, and local-first architecture behind the app.
-> - 📦 **APK Distribution:** Official, signed release builds are distributed directly through this repository under the [**Releases**](https://github.com/dev-vishalgupta/ADHDmate/releases) tab.
+> - 📦 **APK Distribution:** Official, signed release builds are distributed directly through this repository under the [**Releases**](https://github.com/dev-vishalgupta/ADHDmateApp/releases/tag/v1.0.0) tab.
 > - 🆓 **100% Free Forever:** ADHDmate is completely free to use—no paywalls, no subscriptions, and no advertisements.
 
 ---
@@ -49,11 +49,11 @@
 
 You can download the latest official release APK directly from GitHub:
 
-[![Download Latest Release](https://img.shields.io/badge/GitHub%20Releases-Download%20ADHDmate%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/dev-vishalgupta/ADHDmate/releases)
+[![Download Latest Release](https://img.shields.io/badge/GitHub%20Releases-Download%20ADHDmate%20v1.0.0%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/dev-vishalgupta/ADHDmateApp/releases/tag/v1.0.0)
 
 ### 📲 How to Install
 
-1. **Download the APK**: Head to the [**Releases**](https://github.com/dev-vishalgupta/ADHDmate/releases) page and download `ADHDmate-v1.0.0.apk` (or the latest release asset).
+1. **Download the APK**: Head to the [**ADHDmate v1.0.0 Release**](https://github.com/dev-vishalgupta/ADHDmateApp/releases/tag/v1.0.0) page and download `ADHDmate-v1.0.0.apk` from the Assets section.
 2. **Open the File**: Tap the downloaded file in your browser downloads or file manager.
 3. **Allow Unknown Sources**: If Android prompts you with a security alert, select **Settings** &rarr; toggle on **Allow from this source** (standard for direct APK installs outside Google Play).
 4. **Install & Launch**: Tap **Install**, then open ADHDmate and begin capturing your thoughts immediately!
